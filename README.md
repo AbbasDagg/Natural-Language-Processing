@@ -1,1 +1,3 @@
 # Natural-Language-Processing
+
+In a collaborative project with a team of two, we developed an NLP-based solution for predicting file types from court documents. Leveraging strong communication, teamwork, and collaborative problem-solving, we built a comprehensive corpus from various legal files and implemented data collection and preprocessing pipelines using Python. I played a key role in engineering the system architecture, fine-tuning multiple machine learning models, and evaluating their performance to determine the most accurate predictor. This project demonstrated my expertise in natural language processing, data engineering, and effective teamwork, applying machine learning techniques to tackle complex text classification challenges in the legal domain.
